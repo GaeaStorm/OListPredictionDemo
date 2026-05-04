@@ -1,3 +1,11 @@
 .claude/
 content/
 final_df.csv
+node_modules/
+olist-demo/node_modules/
+.next/
+olist-demo/.next/
+working_data_20260503.csv
+final_df_20260503.csv 
+model_comparison_results.csv 
+best_model_test_predictions.csv 

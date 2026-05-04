@@ -1,0 +1,206 @@
+[
+  {
+    "cep": "01310-100",
+    "city": "S\u00e3o Paulo",
+    "state": "SP",
+    "max_distance_approx": 0
+  },
+  {
+    "cep": "01001-000",
+    "city": "S\u00e3o Paulo",
+    "state": "SP",
+    "max_distance_approx": 0
+  },
+  {
+    "cep": "13013-001",
+    "city": "Campinas",
+    "state": "SP",
+    "max_distance_approx": 95
+  },
+  {
+    "cep": "12220-000",
+    "city": "S\u00e3o Jos\u00e9 dos Campos",
+    "state": "SP",
+    "max_distance_approx": 83
+  },
+  {
+    "cep": "20040-020",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "max_distance_approx": 430
+  },
+  {
+    "cep": "24020-054",
+    "city": "Niter\u00f3i",
+    "state": "RJ",
+    "max_distance_approx": 445
+  },
+  {
+    "cep": "30112-000",
+    "city": "Belo Horizonte",
+    "state": "MG",
+    "max_distance_approx": 590
+  },
+  {
+    "cep": "36010-000",
+    "city": "Juiz de Fora",
+    "state": "MG",
+    "max_distance_approx": 505
+  },
+  {
+    "cep": "70040-010",
+    "city": "Bras\u00edlia",
+    "state": "DF",
+    "max_distance_approx": 1015
+  },
+  {
+    "cep": "80010-010",
+    "city": "Curitiba",
+    "state": "PR",
+    "max_distance_approx": 408
+  },
+  {
+    "cep": "86010-040",
+    "city": "Londrina",
+    "state": "PR",
+    "max_distance_approx": 522
+  },
+  {
+    "cep": "90010-150",
+    "city": "Porto Alegre",
+    "state": "RS",
+    "max_distance_approx": 1108
+  },
+  {
+    "cep": "95010-001",
+    "city": "Caxias do Sul",
+    "state": "RS",
+    "max_distance_approx": 1168
+  },
+  {
+    "cep": "40020-010",
+    "city": "Salvador",
+    "state": "BA",
+    "max_distance_approx": 1960
+  },
+  {
+    "cep": "60010-000",
+    "city": "Fortaleza",
+    "state": "CE",
+    "max_distance_approx": 2350
+  },
+  {
+    "cep": "69010-010",
+    "city": "Manaus",
+    "state": "AM",
+    "max_distance_approx": 2930
+  },
+  {
+    "cep": "50010-010",
+    "city": "Recife",
+    "state": "PE",
+    "max_distance_approx": 2660
+  },
+  {
+    "cep": "66010-000",
+    "city": "Bel\u00e9m",
+    "state": "PA",
+    "max_distance_approx": 2480
+  },
+  {
+    "cep": "74010-010",
+    "city": "Goi\u00e2nia",
+    "state": "GO",
+    "max_distance_approx": 907
+  },
+  {
+    "cep": "88010-000",
+    "city": "Florian\u00f3polis",
+    "state": "SC",
+    "max_distance_approx": 694
+  },
+  {
+    "cep": "59010-000",
+    "city": "Natal",
+    "state": "RN",
+    "max_distance_approx": 2720
+  },
+  {
+    "cep": "57010-000",
+    "city": "Macei\u00f3",
+    "state": "AL",
+    "max_distance_approx": 2270
+  },
+  {
+    "cep": "64000-010",
+    "city": "Teresina",
+    "state": "PI",
+    "max_distance_approx": 2210
+  },
+  {
+    "cep": "79010-010",
+    "city": "Campo Grande",
+    "state": "MS",
+    "max_distance_approx": 1014
+  },
+  {
+    "cep": "58010-000",
+    "city": "Jo\u00e3o Pessoa",
+    "state": "PB",
+    "max_distance_approx": 2700
+  },
+  {
+    "cep": "49010-000",
+    "city": "Aracaju",
+    "state": "SE",
+    "max_distance_approx": 2050
+  },
+  {
+    "cep": "68900-000",
+    "city": "Macap\u00e1",
+    "state": "AP",
+    "max_distance_approx": 2775
+  },
+  {
+    "cep": "76801-000",
+    "city": "Porto Velho",
+    "state": "RO",
+    "max_distance_approx": 2975
+  },
+  {
+    "cep": "78005-000",
+    "city": "Cuiab\u00e1",
+    "state": "MT",
+    "max_distance_approx": 1615
+  },
+  {
+    "cep": "77001-002",
+    "city": "Palmas",
+    "state": "TO",
+    "max_distance_approx": 1840
+  },
+  {
+    "cep": "69900-000",
+    "city": "Rio Branco",
+    "state": "AC",
+    "max_distance_approx": 3350
+  },
+  {
+    "cep": "69300-000",
+    "city": "Boa Vista",
+    "state": "RR",
+    "max_distance_approx": 3535
+  },
+  {
+    "cep": "65010-000",
+    "city": "S\u00e3o Lu\u00eds",
+    "state": "MA",
+    "max_distance_approx": 2310
+  },
+  {
+    "cep": "29010-000",
+    "city": "Vit\u00f3ria",
+    "state": "ES",
+    "max_distance_approx": 875
+  }
+]
